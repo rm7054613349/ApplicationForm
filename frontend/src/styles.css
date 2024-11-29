@@ -1,0 +1,20 @@
+.app-container {
+    width: 80%;
+    margin: auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  form div {
+    flex: 1 1 300px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  
